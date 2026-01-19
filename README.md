@@ -48,8 +48,17 @@ streamlit run app.py
 
 ## 📸 Dashboard Preview
 
-(![Dashboard Screenshot](images/dashboard.png)
-)
+## 📸 Project Screenshots
+
+### 🔹 Introduction
+![Introduction](images/intro.png)
+
+### 🔹 Analysis
+![Analysis](images/analysis.png)
+
+### 🔹 Conclusion
+![Conclusion](images/conclusion.png)
+
 
 ---
 
