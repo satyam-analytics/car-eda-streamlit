@@ -48,7 +48,8 @@ streamlit run app.py
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here)
+(![Dashboard Screenshot](images/dashboard.png)
+)
 
 ---
 
